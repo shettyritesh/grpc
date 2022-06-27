@@ -16,5 +16,6 @@
         <module>interface</module>
         <module>service</module>
         <module>client</module>
+        <module>gatling</module>
     </modules>
 </project>
